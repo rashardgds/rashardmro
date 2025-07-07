@@ -568,6 +568,8 @@ code {
   width: -moz-fit-content;
   width: fit-content;
   word-wrap: break-word;
+	overflow-x: scroll;
+	
 }
 /*
 pre {
@@ -599,6 +601,7 @@ pre {
   width: -moz-fit-content;
   width: fit-content;
 	word-wrap: break-word;
+	overflow-x: scroll;
   code {
     margin: 0px;
     padding: 0px;
